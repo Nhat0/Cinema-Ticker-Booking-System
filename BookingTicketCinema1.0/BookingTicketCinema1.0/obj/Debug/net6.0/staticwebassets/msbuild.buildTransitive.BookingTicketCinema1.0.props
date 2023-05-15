@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BookingTicketCinema1.0.props" />
+</Project>
